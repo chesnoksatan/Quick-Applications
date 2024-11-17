@@ -1,1 +1,1 @@
-# Quick-Applications
+# quick-applications
